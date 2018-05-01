@@ -1,0 +1,1 @@
+In other words, the probability of success for this algorithms increase according with the number of samples, as long as, these are uniformly distributed in the free space.
